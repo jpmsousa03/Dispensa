@@ -1,0 +1,6 @@
+{
+  "name": "Pantry & In-Store Grocery Tracker",
+  "description": "Connects your home pantry and in-store grocery shopping with intelligent receipt scanning, price tracking, store-organized lists, and duplicate purchase prevention.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
